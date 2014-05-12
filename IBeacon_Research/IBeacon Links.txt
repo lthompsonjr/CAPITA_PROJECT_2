@@ -1,0 +1,10 @@
+1.
+http://blog.xamarin.com/use-ibeacons-in-android-with-c/
+
+2.
+http://www.captechconsulting.com/blog/christopher-mann/ios-7-tutorial-series-core-location-beacons
+
+3.
+https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CLBeaconRegion_class/Reference/Reference.html#//apple_ref/doc/uid/TP40013054
+
+4.
