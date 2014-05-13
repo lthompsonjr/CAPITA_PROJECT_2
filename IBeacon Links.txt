@@ -22,3 +22,5 @@ http://www.tidev.io/2013/12/09/titanium-and-estimotes-getting-started/
 
 b.
 http://www.tidev.io/2013/12/19/titanium-and-estimotes-proximity/
+
+8.https://developer.apple.com/Library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/CoreBluetoothOverview/CoreBluetoothOverview.html
