@@ -1,3 +1,6 @@
+android designs tutorial:
+http://code.tutsplus.com/tutorials/android-sdk-user-interface-design--mobile-20323
+
 1.
 http://blog.xamarin.com/use-ibeacons-in-android-with-c/
 
